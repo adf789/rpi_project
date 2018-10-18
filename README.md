@@ -4,19 +4,25 @@ SERVO-RADAR
 
 ![radar](https://user-images.githubusercontent.com/23645514/47135089-06057000-d2ea-11e8-81b7-8ce27ef3593c.jpg)
 
-Raspberry Pi 3 - Servo Motor
-            5V - VCC
-           GND - GND
-     GPIO 12번 - data
+Raspberry Pi 3 - Servo Motor\n
+            5V - VCC\n
+           GND - GND\n
+     GPIO 12번 - data\n
      
-Raspberry Pi 3 - Echo Sensor
-            5V - VCC
-           GND - GND
-     GPIO 18번 - Trig
-     GPIO 16번 - Echo (3.3v 로 입력해야 함, 위 그림에서는 저항 1kΩ, 2kΩ 으로 3.3v 를 만듬)
+Raspberry Pi 3 - Echo Sensor\n
+            5V - VCC\n
+           GND - GND\n
+     GPIO 18번 - Trig\n
+     GPIO 16번 - Echo (3.3v 로 입력해야 함, 위 그림에서는 저항 1kΩ, 2kΩ 으로 3.3v 를 만듬)\n
      
      
 메인 프로그램 : radar.cpp
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
