@@ -21,7 +21,7 @@ Raspberry Pi 3 - Echo Sensor
            
      GPIO 18번 - Trig
      
-     GPIO 16번 - Echo (3.3v 로 입력해야 함, 위 그림에서는 저항 1kΩ, 2kΩ 으로 3.3v 를 만듬)
+     GPIO 16번 - Echo (3.3v 로 입력해야 함, 위 그림에서는 저항 1kΩ, 2kΩ 을 이용하여 3.3v 에 가깝게 만듬)
      
      
      
