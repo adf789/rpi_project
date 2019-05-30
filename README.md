@@ -61,7 +61,7 @@ Raspberry Pi 3 - MPU-6050 (자이로, 가속도 센서)
 Battery - MPU-6050
 ※배터리의 전압은 모터의 전압과 동일하게 한다.
    
-            VCC - +12V
+            VCC - +6V
             GND - GND
     
 DC Motor - L298n
